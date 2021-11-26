@@ -24,7 +24,7 @@ General Approach
 
 > Deployment
 
-#Thought process -
+**Thought process -**
 
 1. Load the training dataset from csv file and figure out what kind of information is present in it.
 
@@ -57,7 +57,7 @@ To check if dimension reduction is required or not run 'dimension_reduction.ipyn
 Finally, to carry out complete machine learning pipeline run 'complete_pipeline.ipynb' notebook
 After successful execution of above steps 'output.csv' file will be generated with predictions on test dataset
 
-#Requirements
+**Requirements**
 
 Python Version >= 3.7
 Python Library information is available in 'requirements.txt'
